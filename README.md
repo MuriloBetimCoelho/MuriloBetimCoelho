@@ -15,7 +15,7 @@
 - **Crassuláceas e o Solo:** Investigação científica sobre botânica e variáveis ambientais.
 
 ### 🛠️ Minhas Ferramentas e Linguagens:
-![Python](![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://shields.io)
 ![Github](https://shields.io)
 ![HTML5](https://shields.io)
