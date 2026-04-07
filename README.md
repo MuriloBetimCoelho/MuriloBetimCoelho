@@ -22,7 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### 📫 Como me encontrar:
-- **![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge) LinkedIn:** [Clique aqui para meu perfil](www.linkedin.com/in/murilo-betim-coelho)
+- **![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge):** [Clique aqui para meu perfil](www.linkedin.com/in/murilo-betim-coelho)
 
 ---
 
