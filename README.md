@@ -17,7 +17,7 @@
 ### 🛠️ Minhas Ferramentas e Linguagens:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Github](https://img.shields.io/badge/github-000000?logo=GitHub&logoColor=111111&style=flat-square)
+![Github](https://img.shields.io/badge/github-121011?logo=GitHub&logoColor=white&style=flat-square)
 ![HTML5](https://shields.io)
 )
 ![CSS3](<img src="https://shields.io" alt="CSS3">
