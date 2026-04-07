@@ -17,9 +17,12 @@
 ### 🛠️ Minhas Ferramentas e Linguagens:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Github](https://github.com/)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![Github]([https://github.com/](https://img.shields.io/github/:metric/:user/:repo
+))
+![HTML5](<img src="https://shields.io" alt="HTML5">
+)
+![CSS3](<img src="https://shields.io" alt="CSS3">
+)
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Clique aqui para meu perfil](www.linkedin.com/in/murilo-betim-coelho)
