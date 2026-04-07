@@ -2,7 +2,7 @@
 
 **Meu nome é Murilo Betim**
 
-- Estudante apaixonado por tecnologia, dados e pesquisa científica. Atualmente, foco meu aprendizado em desenvolvimento de software através da [Alura] (https://www.alura.com.br) e em projetos de análise de dados complexos. 💻
+- Estudante apaixonado por tecnologia, dados e pesquisa científica. Atualmente, foco meu aprendizado em desenvolvimento de software através da [![CSS3](https://img.shields.io/badge/Alura-051933?logo=alura&logoColor=00C86F&style=for-the-badge)] (https://www.alura.com.br) e em projetos de análise de dados complexos. 💻
 - Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos 📰
 
 ### 🔍 No que estou trabalhando agora:
