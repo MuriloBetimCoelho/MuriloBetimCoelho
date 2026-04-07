@@ -19,8 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 ![Github](https://img.shields.io/badge/github-121011?logo=GitHub&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](<img src="https://shields.io" alt="CSS3">
-)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Clique aqui para meu perfil](www.linkedin.com/in/murilo-betim-coelho)
